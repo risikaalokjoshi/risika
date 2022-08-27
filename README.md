@@ -1,0 +1,2 @@
+# risika
+repository for portfolio
